@@ -1,5 +1,5 @@
-# ProbeTools_PaperCam
-Paper housing for the Probe Tools Arduino Camera
+# ProbeTools_TaskCam
+Paper housing for the ProbeTools TaskCam
 
 ## Tips for selecting your paper
 
