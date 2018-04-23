@@ -1,6 +1,5 @@
 # ProbeTools TaskCam (Left Handed Version)
-Paper housing for the ProbeTools TaskCam
-For manual cutting, print Master files on a printer. Use Fold and Cut files for lasercutting.
+Paper housing for the ProbeTools TaskCam. For manual cutting, print Master files on a printer. Use Fold and Cut files for lasercutting.
 
 ## Tips for selecting your paper
 
